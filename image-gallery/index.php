@@ -68,7 +68,7 @@ document.getElementById('imageInput').addEventListener('change', function(event)
         previewImage.src = URL.createObjectURL(file);
     }
 });
-</script>
+</script> 
 
 </body>
 </html>

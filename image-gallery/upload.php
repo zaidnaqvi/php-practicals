@@ -9,7 +9,7 @@ if(isset($_POST['submit'])){
     $maxSize = 2 * 1024 * 1024; // 2MB
 
     if($_FILES["image"]["error"] !== 0){
-        $_SESSION['message'] = "Upload error!";
+        $_SESSION['message'] = "Upload error!"; 
         header("Location: index.php");
         exit();
     }

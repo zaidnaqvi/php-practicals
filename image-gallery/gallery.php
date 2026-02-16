@@ -6,7 +6,7 @@ session_start();
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Gallery</title>
+    <title>Gallery Gallerys</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 min-h-screen">
@@ -35,7 +35,7 @@ session_start();
         </a>
     </div>
 
-</div>
+</div> 
 
 </body>
 </html>
